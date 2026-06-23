@@ -7,73 +7,73 @@
 ## Pages
 
 ### בית
-https://l-m-h-e-e6b55e10.zappy5.app
+https://example.com
 חנות אופנה אונליין מובילה עם מותגים מקוריים ויד שנייה איכותית, חלקם עם תגית. חוויית קנייה יוקרתית, מינימליסטית ומשתלמת. היכנסו עכשיו לשדרוג המלתחה!
 
 ### פרטי מוצר
-https://l-m-h-e-e6b55e10.zappy5.app/product-detail
+https://example.com/product-detail
 צפי בכל פרט קטן: תמונות גדולות, תיאור מדויק ומחיר ללא תחרות על פריטי אופנה אותנטיים. לחצי כאן כדי להפוך את הלוק לחלום מציאותי עוד היום.
 
 ### אודות
-https://l-m-h-e-e6b55e10.zappy5.app/about
+https://example.com/about
 L.M.H.E נולדה כדי להנגיש אופנת מותגים אמיתית במחירים שפויים, עם אסתטיקה מודרנית ושקיפות מלאה. הכירו את החזון שמחבר בין יוקרה לנגישות.
 
 ### שאלות נפוצות
-https://l-m-h-e-e6b55e10.zappy5.app/faq
+https://example.com/faq
 משלוחים, החזרות, מידות ואיכות — כל התשובות במקום אחד. כנסו עכשיו לדף השאלות הנפוצות וקבלו את כל המידע לפני שתעשו את מציאת חייכם.
 
 ### צור קשר
-https://l-m-h-e-e6b55e10.zappy5.app/contact
+https://example.com/contact
 צריכים עזרה בבחירת הפריט המושלם או סתם רוצים להגיד היי? צרו קשר בקלות ונחזור אליכם במהירות עם חיוך. שירות הלקוחות שלנו מחכה לכם.
 
 ### Products
-https://l-m-h-e-e6b55e10.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - L.M.H.E
 
 ### Cart
-https://l-m-h-e-e6b55e10.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://l-m-h-e-e6b55e10.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://l-m-h-e-e6b55e10.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://l-m-h-e-e6b55e10.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://l-m-h-e-e6b55e10.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://l-m-h-e-e6b55e10.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - L.M.H.E
 
 ### Category
-https://l-m-h-e-e6b55e10.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - L.M.H.E
 
 ### תודה שפניתם אלינו
-https://l-m-h-e-e6b55e10.zappy5.app/thank-you
+https://example.com/thank-you
 L.M.H.E - תודה שפניתם אלינו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://l-m-h-e-e6b55e10.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://l-m-h-e-e6b55e10.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://l-m-h-e-e6b55e10.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -102,8 +102,8 @@ Fashion E-commerce
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://l-m-h-e-e6b55e10.zappy5.app/sitemap.xml
-- Robots: https://l-m-h-e-e6b55e10.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://l-m-h-e-e6b55e10.zappy5.app/llms-full.txt
-- Products (JSON): https://l-m-h-e-e6b55e10.zappy5.app/products.json
-- Products (Google Merchant RSS): https://l-m-h-e-e6b55e10.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
