@@ -1,0 +1,109 @@
+# L.M.H.E — Generative Engine Optimization Map
+
+> L.M.H.E is a Hebrew-language online fashion store specializing in authentic brand-name clothing at accessible prices, including high-quality second-hand items — some brand new with tags still attached. The brand aims for a luxurious, modern, and minimalist aesthetic with a black, white, gray, and gold palette, positioning itself as a premium yet affordable fashion destination. The site is designed to feel like a leading fashion brand, with elegant animations, large imagery, and a fully RTL (right-to-left) Hebrew experience optimized for both mobile and desktop.
+
+---
+
+## Pages
+
+### בית
+https://l-m-h-e-e6b55e10.zappy5.app
+חנות אופנה אונליין מובילה עם מותגים מקוריים ויד שנייה איכותית, חלקם עם תגית. חוויית קנייה יוקרתית, מינימליסטית ומשתלמת. היכנסו עכשיו לשדרוג המלתחה!
+
+### פרטי מוצר
+https://l-m-h-e-e6b55e10.zappy5.app/product-detail
+צפי בכל פרט קטן: תמונות גדולות, תיאור מדויק ומחיר ללא תחרות על פריטי אופנה אותנטיים. לחצי כאן כדי להפוך את הלוק לחלום מציאותי עוד היום.
+
+### אודות
+https://l-m-h-e-e6b55e10.zappy5.app/about
+L.M.H.E נולדה כדי להנגיש אופנת מותגים אמיתית במחירים שפויים, עם אסתטיקה מודרנית ושקיפות מלאה. הכירו את החזון שמחבר בין יוקרה לנגישות.
+
+### שאלות נפוצות
+https://l-m-h-e-e6b55e10.zappy5.app/faq
+משלוחים, החזרות, מידות ואיכות — כל התשובות במקום אחד. כנסו עכשיו לדף השאלות הנפוצות וקבלו את כל המידע לפני שתעשו את מציאת חייכם.
+
+### צור קשר
+https://l-m-h-e-e6b55e10.zappy5.app/contact
+צריכים עזרה בבחירת הפריט המושלם או סתם רוצים להגיד היי? צרו קשר בקלות ונחזור אליכם במהירות עם חיוך. שירות הלקוחות שלנו מחכה לכם.
+
+### Products
+https://l-m-h-e-e6b55e10.zappy5.app/products
+המוצרים שלנו - L.M.H.E
+
+### Cart
+https://l-m-h-e-e6b55e10.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://l-m-h-e-e6b55e10.zappy5.app/checkout
+תשלום
+
+### Login
+https://l-m-h-e-e6b55e10.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://l-m-h-e-e6b55e10.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://l-m-h-e-e6b55e10.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://l-m-h-e-e6b55e10.zappy5.app/product/:slug
+פרטי המוצר - L.M.H.E
+
+### Category
+https://l-m-h-e-e6b55e10.zappy5.app/category/:slug
+מוצרים - L.M.H.E
+
+### תודה שפניתם אלינו
+https://l-m-h-e-e6b55e10.zappy5.app/thank-you
+L.M.H.E - תודה שפניתם אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://l-m-h-e-e6b55e10.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://l-m-h-e-e6b55e10.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://l-m-h-e-e6b55e10.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About L.M.H.E
+L.M.H.E is a Hebrew-language online fashion store specializing in authentic brand-name clothing at accessible prices, including high-quality second-hand items — some brand new with tags still attached. The brand aims for a luxurious, modern, and minimalist aesthetic with a black, white, gray, and gold palette, positioning itself as a premium yet affordable fashion destination. The site is designed to feel like a leading fashion brand, with elegant animations, large imagery, and a fully RTL (right-to-left) Hebrew experience optimized for both mobile and desktop.
+
+## Target Audience
+- אוהבי אופנה המחפשים מותגים מקוריים במחירים נגישים
+- חובבי מותגים אופנתיים
+- מחפשי אופנה בת קיימא
+- ציידי אופנה בתקציב
+
+## Industry
+Fashion E-commerce
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://l-m-h-e-e6b55e10.zappy5.app/sitemap.xml
+- Robots: https://l-m-h-e-e6b55e10.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://l-m-h-e-e6b55e10.zappy5.app/llms-full.txt
+- Products (JSON): https://l-m-h-e-e6b55e10.zappy5.app/products.json
+- Products (Google Merchant RSS): https://l-m-h-e-e6b55e10.zappy5.app/product-feed.xml
